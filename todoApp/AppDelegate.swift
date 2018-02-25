@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  todoApp
-//
-//  Created by YOUGG on 2/15/18.
-//  Copyright © 2018 YOUGG. All rights reserved.
-//
 
 import UIKit
 import CoreData
